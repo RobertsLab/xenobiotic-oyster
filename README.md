@@ -7,11 +7,12 @@ see also Influence of 17α-ethinylestradiol on DNA Methylation in Oysters (https
 
 
 ## 1. Larval Pesticide
+```
 filtered_Y38_control_GTGAAA_L007	77	Y38-control	Yanouk
 filtered_Y54_Mix_GTGGCC_L007	78	Y54-mix	Yanouk
 filtered_Y38_control_GTGAAA_L005	77	Y38-control	Yanouk
 filtered_Y54_Mix_GTGGCC_L005	78	Y54-mix	Yanouk
-
+```
 data http://owl.fish.washington.edu/nightingales/C_gigas/
 
 
@@ -20,6 +21,7 @@ data http://owl.fish.washington.edu/nightingales/C_gigas/
 
 see also https://github.com/sr320/paper-Cvirg-oil/blob/master/methods.md
 
+```
 2112_lane1_NoIndex_L001		OilvNoOil
 2112_lane1_NoIndex_L001		OilvNoOil
 2112_lane1_NoIndex_L001		OilvNoOil
@@ -45,3 +47,4 @@ see also https://github.com/sr320/paper-Cvirg-oil/blob/master/methods.md
 SRP139854
 SRP139854
 SRP139854
+```
