@@ -2,6 +2,8 @@
 
 Repo for complilation of efforts designed to look at impact of contaminants on oysters.
 
+[Mentoring Plan](https://docs.google.com/document/d/1pt2XqB-HtZis0LnhRWOt3Zsb4gxYMpqa5vbgCkagbOE/edit)
+
 
 see also Influence of 17α-ethinylestradiol on DNA Methylation in Oysters (https://github.com/sr320/paper-Oyster-EE2)
 
